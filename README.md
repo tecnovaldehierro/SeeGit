@@ -1,6 +1,3 @@
-Hello word solo es una demostración de los cambios de un proyecto controlado por Git
-
-
 # SeeGit - The Git Repository Visualizer
 
 This is a little experiment in creating a realtime git repository visualizer.
